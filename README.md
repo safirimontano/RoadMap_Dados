@@ -42,7 +42,7 @@
 [25 Aulas disponibilizadas no youtube](https://youtu.be/lHYV_H1526Q)
 
 - Dev Aprender 
-[Video de 3h em SQL server da Microsoft com a maior parte dos comandos] (https://youtu.be/G7bMwefn8RQ)
+[Video de 3h em SQL server da Microsoft com a maior parte dos comandos](https://youtu.be/G7bMwefn8RQ)
 
 - O canal programação dinámica ainda com conteúdo riquissimo aborda assuntos com produnfidade.
 [Kizzy Terra trazendo seu conhecimento em SQL com bigquery do google](https://youtu.be/BRPUA0EgS4I)
@@ -80,7 +80,7 @@
 [webnar](https://www.youtube.com/watch?v=f7BxWC3-wAg&t=2821s&ab_channel=BIXTecnologia)
 
 - A playlist conta com diversos videos na área
-[acesse aqui] (https://www.youtube.com/playlist?list=PLInC38-RC6mJGuhOJ-L8nZdyfXRuxAejF)
+[acesse aqui](https://www.youtube.com/playlist?list=PLInC38-RC6mJGuhOJ-L8nZdyfXRuxAejF)
 
 
 
