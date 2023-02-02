@@ -47,6 +47,9 @@
 - O canal programação dinámica ainda com conteúdo riquissimo aborda assuntos com produnfidade.
 [Kizzy Terra trazendo seu conhecimento em SQL com bigquery do google](https://youtu.be/BRPUA0EgS4I)
 
+- O site softblue trás um curso completo de SQL com certificado. 
+[Aqui](https://www.softblue.com.br/site/curso/id/3/CURSO+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03#)
+
 - Hackerranck para exercitar os comandos.
 
 ## 4 - Bancos de dados 
